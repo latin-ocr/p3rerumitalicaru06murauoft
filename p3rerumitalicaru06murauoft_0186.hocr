@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p3rerumitalicaru06murauoft_0186.png"; bbox 0 0 2287 3466; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 654 531 680 1672">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 654 531 680 1672">
+     <span class='ocr_line' id='line_1_1' title="bbox 654 531 680 1672; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 662 1644 675 1672; x_wconf 68' lang='grc' dir='ltr'><em>ν)</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 654 1159 656 1164; x_wconf 95' lang='grc'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 674 763 675 766; x_wconf 25' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 661 531 680 570; x_wconf 48' lang='lat' dir='ltr'><em>2ss</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1429 0 2276 3466">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1429 0 2276 3466">
+     <span class='ocr_line' id='line_1_2' title="bbox 1429 0 2276 3466; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 1429 0 2276 3466; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
